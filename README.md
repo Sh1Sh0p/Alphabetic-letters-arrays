@@ -1,2 +1,2 @@
 # Alphabetic-letters-arrays
-Console application which print introduced letters alphabetic. (With arrays and for loop)
+Console application which print introduced letters alphabetic. (Made with arrays and for loop)
